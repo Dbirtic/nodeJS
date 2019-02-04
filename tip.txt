@@ -1,0 +1,1 @@
+za mongoDB pokrenuti cmd kao admin
