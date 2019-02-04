@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "diplomski rad ili pomoc za diplomski",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dbirtic/nodeJS.git"
+  },
+  "author": "Dominik Birtić",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dbirtic/nodeJS/issues"
+  },
+  "homepage": "https://github.com/Dbirtic/nodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
